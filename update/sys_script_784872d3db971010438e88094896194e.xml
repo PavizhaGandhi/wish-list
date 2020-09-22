@@ -31,6 +31,7 @@
 
 	// Add your code here
 
+	//comment added to check the update set changes
 	current.display_name = current.item + " (" + current.quantity + ") - " + current.requester.name;
 	
 })(current, previous);]]></script>
@@ -40,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>784872d3db971010438e88094896194e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Populate Display name</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_451559_wish_list">502d911fdb131010438e880948961916</sys_package>
@@ -48,7 +49,7 @@
         <sys_scope display_value="Wish List">502d911fdb131010438e880948961916</sys_scope>
         <sys_update_name>sys_script_784872d3db971010438e88094896194e</sys_update_name>
         <sys_updated_by>carol.coughlin</sys_updated_by>
-        <sys_updated_on>2020-09-22 12:41:15</sys_updated_on>
+        <sys_updated_on>2020-09-22 12:49:22</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
